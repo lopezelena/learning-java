@@ -22,4 +22,7 @@ public class StaticMethod {
         return message;
     }
 
+    static void main() {
+
+    }
 }
